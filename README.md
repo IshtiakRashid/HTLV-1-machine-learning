@@ -1,7 +1,7 @@
 # HTLV-1-machine-learning
 
 ## How to Run
-Install docker from the official website.
+- Install docker from the official website.
 
 - Pull and Run the docker image
 Open the terminal and excute the following:

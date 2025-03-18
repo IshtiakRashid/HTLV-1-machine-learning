@@ -2,7 +2,7 @@
 
 ## How to Run on Docker Image
 - Install docker from the official website.
-- Open the terminal and execute the following:
+- Open the terminal and execute the following :
  
 - pull the docker image from mdishtiakrashid/htlv_analysis_image
 
@@ -10,7 +10,7 @@
  docker pull mdishtiakrashid/htlv_analysis_image
 ```
 
-- run the image
+- run the image :
 
 ```
 docker run -p 8888:8888 mdishtiakrashid/htlv_analysis_image

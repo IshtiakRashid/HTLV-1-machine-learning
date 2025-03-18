@@ -2,9 +2,10 @@
 
 ## How to Run on Docker Image
 - Install docker from the official website.
-- Open the terminal and execute the following :
  
 - pull the docker image from mdishtiakrashid/htlv_analysis_image
+
+- Open the terminal and execute the following :
 
  ```
  docker pull mdishtiakrashid/htlv_analysis_image
